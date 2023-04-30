@@ -1,0 +1,21 @@
+QUESTION 1
+No, the instance is not satisfiable as suggested by the RSat SAT solver.
+
+QUESTION 2
+Yes, the instance is satisfiable when coloring with 4 colors.
+
+QUESTION 3
+By the answer of coloring graph 1 with 3 and 4 colors, we observe that in order
+to solve the problem we need at least 4 colors.
+Based on the results of RSat, the solution to the graph coloring problem with 
+four colors should be:
+    Node 1 => 4 = (1 - 1) * 4 + 4 => color 4
+    Node 2 => 7 = (2 - 1) * 4 + 3 => color 3
+    Node 3 => 10 = (3 - 1) * 4 + 2 => color 2
+    Node 4 => 15 = (4 - 1) * 4 + 3 => color 3
+    Node 5 => 17 = (5 - 1) * 4 + 1 => color 1
+    Node 6 => 22 = (6 - 1) * 4 + 2 => color 2
+    Node 7 => 25 = (7 - 1) * 4 + 1 => color 1
+
+QUESTION 4
+For graph 2, we need at least 8 colors to solve the coloring problem.
