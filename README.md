@@ -16,6 +16,6 @@ The course introduces the design of intelligent agents, including the fundamenta
 - HW4 - Graph Coloring and SAT Problem
   - Wrote python program to convert graph coloring problems into SAT problems and used a SAT solver to solve them.
 - HW5 - Propositional & First-Order Logic
-  - Non-coding assignment focuses on representing sentences as logical statements and performing resolution to prove a statement
+  - Non-coding assignment focuses on representing sentences as logical statements and performing resolution to prove/disprove a statement
 - HW6 - Bayesian Networks
   - Non-coding assignment focuses on constructing bayesian networks and calculating probabilities.
