@@ -11,7 +11,7 @@ The course introduces the design of intelligent agents, including the fundamenta
 - HW2 - “Gone Maggie Gone” Problem in Homer Simpson
   - Wrote a python program to solve the famous fox, goose and bag of beans puzzle by modeling it as a state search problem.
 - HW3 - Sokoban
-  - Wrote python program to model the Sokoban game as a state search problem and solved it with A* search. Implemented original heuristic function to enhance the performance of A* search by significantly reducing its runtime when finding puzzle solutions.
+  - Wrote python program to model the Sokoban game as a state search problem and solved it with A* search. Designed original heuristic function to enhance the performance of A* search by significantly reducing its runtime when finding puzzle solutions.
   - Example of Sokoban Game: https://www.sokobanonline.com/
 - HW4 - Graph Coloring and SAT Problem
   - Wrote python program to convert graph coloring problems into SAT problems and used a SAT solver to solve them.
