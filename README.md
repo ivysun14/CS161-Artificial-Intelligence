@@ -7,7 +7,7 @@ The course introduces the design of intelligent agents, including the fundamenta
 
 ## Assignment Overview
 - HW1 - Python Warm-up
-  - Wrote multiple python functions using BFS, DFS traversal in tree-stype problems.
+  - Wrote multiple python functions using BFS, DFS traversal in tree-type problems.
 - HW2 - “Gone Maggie Gone” Problem in Homer Simpson
   - Wrote a python program to solve the famous fox, goose and bag of beans puzzle by modeling it as a state search problem.
 - HW3 - Sokoban
